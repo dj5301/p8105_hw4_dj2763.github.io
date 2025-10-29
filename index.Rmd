@@ -17,6 +17,8 @@ Outside of academics, I enjoy teaching, creating data visualizations, and explor
 
 [Project](Project.html)
 
+[Deliverables](Dashboard.html)
+
 #### More About Me
 
 [Resume](about.html)

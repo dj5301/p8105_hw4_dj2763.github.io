@@ -1,0 +1,22 @@
+---
+title: "Alvin's personal Profile"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+![](image/885KB copy.PNG){width=100px} <br>
+
+#### Introduction
+Hi, my name is Alvin Jiang, and I’m currently pursuing a Master’s in Biostatistics at Columbia University’s Mailman School of Public Health. I have a strong background in data analytics and supply chain systems, with hands-on experience at Apple Inc. (Beijing), where I optimized performance evaluation dashboards and developed automated data pipelines using Python, Tableau, and SQL. I’m passionate about integrating AI and statistical modeling to improve decision-making in both public health and enterprise analytics. My long-term goal is to bridge data science with real-world impact — applying quantitative insights to design smarter, more sustainable solutions across industries.
+
+Outside of academics, I enjoy teaching, creating data visualizations, and exploring how emerging technologies like LLMs and ERP systems can reshape the way we interpret complex data.
+
+#### Project
+
+[Project](Project.html)
+
+#### More About Me
+
+[Resume](about.html)
